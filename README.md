@@ -10,7 +10,6 @@ A PHP-based API management website for developers.
 [![Stars](https://img.shields.io/github/stars/tas33n/misfitsdev-apis.svg?style=flat)](https://github.com/tas33n/misfitsdev-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/tas33n/misfitsdev-apis.svg?color=007ec6&style=flat)](https://github.com/tas33n/misfitsdev-apis/network)
 [![Docs](https://img.shields.io/badge/docs-on%20GitHub-007ec6.svg?&style=flat)](https://github.com/tas33n/misfitsdev-apis/wiki)
-[![Install](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://raw.githubusercontent.com/tas33n/Cyber-Punk/main/Cyber-Punk.user.styl)
 
 </div>
 
