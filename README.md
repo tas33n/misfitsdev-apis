@@ -57,7 +57,7 @@ If you have any questions, suggestions, or concerns, feel free to contact us thr
 
 - Email: admin@misfitsdev.co
 - Website: [misfitsDev](https://misfitsdev.co)
-- Telegram: [Tas33n](https://t.me/misfitsdev)
+- Telegram: [MisfitsDEV](https://t.me/misfitsdev)
 
 ## License
 
