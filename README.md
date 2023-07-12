@@ -6,10 +6,10 @@ A PHP-based API management website for developers.
 <br>
 (Private Source)
 
-[![Version](https://img.shields.io/github/v/tag/tas33n/Cyber-Punk-facebook.svg?label=version&style=flat)](https://github.com/tas33n/Cyber-Punk-facebook/blob/master/changelog.org)
-[![Stars](https://img.shields.io/github/stars/tas33n/Cyber-Punk-facebook.svg?style=flat)](https://github.com/tas33n/Cyber-Punk-facebook/stargazers)
-[![Forks](https://img.shields.io/github/forks/tas33n/Cyber-Punk-facebook.svg?color=007ec6&style=flat)](https://github.com/tas33n/Cyber-Punk-facebook/network)
-[![Docs](https://img.shields.io/badge/docs-on%20GitHub-007ec6.svg?&style=flat)](https://github.com/tas33n/Cyber-Punk-facebook/wiki)
+[![Version](https://img.shields.io/github/v/tag/tas33n/misfitsdev-apis.svg?label=version&style=flat)](https://github.com/tas33n/misfitsdev-apis/blob/master/changelog.org)
+[![Stars](https://img.shields.io/github/stars/tas33n/misfitsdev-apis.svg?style=flat)](https://github.com/tas33n/misfitsdev-apis/stargazers)
+[![Forks](https://img.shields.io/github/forks/tas33n/misfitsdev-apis.svg?color=007ec6&style=flat)](https://github.com/tas33n/misfitsdev-apis/network)
+[![Docs](https://img.shields.io/badge/docs-on%20GitHub-007ec6.svg?&style=flat)](https://github.com/tas33n/misfitsdev-apis/wiki)
 [![Install](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://raw.githubusercontent.com/tas33n/Cyber-Punk/main/Cyber-Punk.user.styl)
 
 </div>
@@ -56,8 +56,8 @@ We welcome contributions to this repository. If you find any bugs or have any su
 If you have any questions, suggestions, or concerns, feel free to contact us through the following channels:
 
 - Email: admin@misfitsdev.co
-- Website: [Misfitsdev](https://misfitsdev.co)
-- Telegram: [Sadman Anik](https://t.me/misfitsdev)
+- Website: [misfitsDev](https://misfitsdev.co)
+- Telegram: [Tas33n](https://t.me/misfitsdev)
 
 ## License
 
