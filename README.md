@@ -10,6 +10,7 @@ A PHP-based API management website for developers.
 [![Stars](https://img.shields.io/github/stars/tas33n/misfitsdev-apis.svg?style=flat)](https://github.com/tas33n/misfitsdev-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/tas33n/misfitsdev-apis.svg?color=007ec6&style=flat)](https://github.com/tas33n/misfitsdev-apis/network)
 [![Docs](https://img.shields.io/badge/docs-on%20GitHub-007ec6.svg?&style=flat)](https://github.com/tas33n/misfitsdev-apis/wiki)
+[![Install](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://raw.githubusercontent.com/tas33n/Cyber-Punk/main/Cyber-Punk.user.styl)
 
 </div>
 
@@ -46,17 +47,34 @@ To use our APIs, you will need to get a key from the website. Once you have a ke
 3. Explore the API documentation to understand how to use different APIs.
 4. Integrate the API key into your project and start making requests to the desired APIs.
 
-## Contributing
-
-We welcome contributions to this repository. If you find any bugs or have any suggestions, please open an issue or Contact with us.
-
 ## Contact
 
 If you have any questions, suggestions, or concerns, feel free to contact us through the following channels:
 
 - Email: admin@misfitsdev.co
 - Website: [misfitsDev](https://misfitsdev.co)
-- Telegram: [MisfitsDEV](https://t.me/misfitsdev)
+- Telegram: [Tas33n](https://t.me/misfitsdev)
+
+## Contributors ✨
+
+Thanks go to these wonderful people:
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+      <a href="https://github.com/MrSelfisH01">
+      <img src="https://avatars.githubusercontent.com/u/108799020?v=4" width="100px;" alt="MrSelfisH01"/><br /><sub><b>MrSelfisH01</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%">
+      <a href="https://github.com/Sadman-11">
+      <img src="https://avatars.githubusercontent.com/u/81039510?v=4" width="100px;" alt="Sadman Anik"/><br /><sub><b>Sadman Anik</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/illusionghost3">
+      <img src="https://avatars.githubusercontent.com/u/135030867?v=4" width="100px;" alt="Mohammad Alamin
+"/><br /><sub><b>Mohammad Alamin
+</b></sub></a><br /></td>
+      </tbody>
+</table>
+
 
 ## License
 
